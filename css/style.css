@@ -501,6 +501,13 @@ nav ul a:hover {
   box-shadow: 0 0 0 2px rgba(108, 99, 255, 0.08);
 }
 
+.error-message {
+  color: #e74c3c;
+  font-size: 0.9em;
+  margin-bottom: 8px;
+  display: block;
+}
+
 #contact button[type="submit"] {
   background: #6c63ff;
   color: #fff;
