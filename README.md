@@ -4,7 +4,8 @@
 <a href="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,githubcopilot,git&titles=true&theme=dark" rel="nofollow">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,githubcopilot,git&titles=true&theme=dark" alt="Sohaib Malik's Portfolio Technologies: HTML, CSS, JavaScript, GitHub Copilot, and Git">
 </a>
-
+</br>
+</br>
 <p>
   This project serves as the <b>capstone for the Microsoft Web Dev program, enhanced with AI integration.</b>
 </p>
