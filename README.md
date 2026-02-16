@@ -19,7 +19,3 @@
     <img src="https://github.com/user-attachments/assets/32f9273f-8b68-4aa7-a4c1-430271a66f37" alt="Peer feedback screenshot for Sohaibdevv's portfolio project">
   </a>
 </p>
-
-<p>
-
-</p>
