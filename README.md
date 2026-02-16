@@ -21,6 +21,5 @@
 </p>
 
 <p>
-  <h3>Created by</h3>
-  This project was built by <a href="https://github.com/sohaibdevv">Sohaibdevv</a>
+
 </p>
